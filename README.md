@@ -22,7 +22,7 @@ Lleva el control de tus contenedores docker desde un único lugar.
 - ✅ Actualizaciones de los contenedores
 - ✅ Cambiar el tag (rollback o actualización)
 - ✅ Limpia el sistema, eliminado contenedores, imagenes y otros objetos no utilizados.
-- ✅ Soporte de idiomas (Spanish, English, Dutch, German, Russian, Galician)
+- ✅ Soporte de idiomas (Spanish, English, Dutch, German, Russian, Galician, Italian)
 
 ¿Lo buscas en [![](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/r/dgongut/docker-controller-bot)?
 
